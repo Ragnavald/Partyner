@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtEULA.Text" xml:space="preserve">
+    <value>Este instrumento contém os termos gerais e condições de uso do software "Partyner". Os 
+termos aqui encontrados apresentam regras e exigências para a segurança do soft
+ware e do utilizador.
+
+Ao ler este contrato, você está a inteira disposição de aceitar os termos aqui presentes. Leia-os
+com atenção.
+
+1. Utilização do Software
+Os serviços Partyner e o conteúdo são de propriedade dos desenvolvedores. Nós concedemos 
+a você um acesso limitado, afim de aproveitar os serviços do Partyner sem comprometer a inte
+gridade do software. Você promete e concordar que você está usando o serviço Partyner e o
+conteúdo para seu próprio uso  e que você não irá redistribuir nem transferir o serviço Partyner
+ou o conteudo. O conteúdo do Partyner não são vendidos nem transferidos para você , e seus
+desenvolvedores retêm a titularidade de todas as cópias dos aplicativos Partyner e do conteúdo,
+mesmo após a instalação em seus computadores pessoais.
+Todas as marcas, nomes comerciais, logotipos, nomes de domínio do Partyner e quaisquer 
+outras características da marca Partyner são de propriedade exclusiva do Partyner ou dos seus
+desenvolvedores. Os Acordos não concedem a você quaisquer direitos de usar quaisquer 
+Características da Marca Partyner seja para uso comercial ou não comercial. 
+
+2. Direitos concedidos
+O software partyner deve utilizar um de um software interpretador de scripts local e um banco 
+de dados no sistema windows, para isso o usuário deve comunicar os fornecedores para mais 
+informações e solicitar o interoretador de banco de dados.
+
+3. Diretrizes de utilizador
+O partyner respeita os direitos de propriedade intelectual e espera que você faça o mesmo. 
+Estabelecemos algumas regras básicas para você seguir ao usar o Serviço, para termos certeza 
+de que o Partyner permanecerá agradável para todos. Você deve seguir essas regras e incenti-
+var outros usuários a fazer o mesmo. É proibido, por qualquer motivo:
+	1- realizar engenharia reversa, descompilar, desmontar, modificar ou criar trabalhos
+derivados do Partyner, do Conteúdo ou de qualquer parte dele, exceto na medida permitida
+pela lei aplicável;
+	2- usar o Partyner para importar ou copiar quaisquer arquivos locais que você
+não tenha o direito de importar ou copiar dessa forma; 
+	3-vender, alugar, sublicenciar ou locar qualquer parte do Partyner ou do Conteúdo;
+	4-contornar quaisquer restrições territoriais aplicadas pelo Partyner ou seus desenvolvedores;
+
+4. Suporte ao cliente
+Para dar suporte ao cliente com questões relacionadas a mensaidades ou requisitar alguma infor-
+mação, por favor envie um email para ronaldoavilajunior@outlook.com ou para ryan.alves@etec.sp.gov.br
+ com o assunsto "Partyner - SEU NOME ". Enviaremos todo nosso auxilio ao nosso alcance.
+
+5. Limitações
+VOCÊ CONCORDA QUE O SEU ÚNICO E EXCLUSIVO RECURSO PARA QUAISQUER PROBLEMAS
+OU QUALQUER INSATISFAÇÃO COM OS SERVIÇOS DO PARTYNER É DESINSTALAR QUALQUER
+SOFTWARE DO PARTYNER E PARAR DE USAR O SERVIÇO PARTYNER. VOCÊ CONCORDA QUE O
+PARTYNER NÃO POSSUI OBRIGAÇÃO OU RESPONSABILIDADE DECORRENTES OU RELACIONA-
+DOS A APLICATIVOS DE TERCEIROS OU AO CONTEÚDO DOS MESMOS DISPONIBILIZADOS 
+ATRAVÉS DO OU EM CONEXÃO COM O PARTYNER. AINDA QUE SUA RELAÇÃO COM 
+TAIS APLICATIVOS DE TERCEIROS POSSAM SER REGIDAS POR ACORDOS DISTINTOS, CELEBRA-
+DOS COM OS ALUDIDOS TERCEIROS, SEU ÚNICO E EXCLUSIVO RECURSO, NO QUE DIZ RESPEI-
+TO AO PARTYNER, PARA QUAISQUER PROBLEMAS OU QUALQUER INSATISFAÇÃO COM APLICA-
+TIVOS DE TERCEIROS OU O CONTEÚDO DO MESMO, É DESINSTALAR E/OU PARAR DE USAR
+TAIS APLICATIVOS DE TERCEIROS.
+
+6. Indenização 
+Você concorda em indenizar e manter o Partyner indene contra todos os danos, perdas e despes-
+as de qualquer natureza (incluindo custos e honorários advocatícios razoáveis) decorrentes de
+ou relacionados com: (1) violação, de sua parte, dos Acordos ou qualquer um desses; (2) qual-
+quer atividade na qual você se envolva no ou através do Partyner ; e (3) violação, de sua 
+parte, de qualquer lei ou dos direitos de terceiros.
+
+Obrigado por ler nossos Termos. Esperamos que você usufrua de todos os benefícios do Partyner!
+
+© Partyner.	</value>
+  </data>
+</root>

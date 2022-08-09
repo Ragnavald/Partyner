@@ -1,0 +1,451 @@
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.pdb
+H:\Escola\TCC\Forms\Forms\bin\Release\Forms.exe.config
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.exe
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.pdb
+H:\Escola\TCC\Forms\Forms\bin\Release\Forms.exe
+H:\Escola\TCC\Forms\Forms\bin\Release\Forms.pdb
+H:\Escola\TCC\Forms\Forms\bin\Release\MetroFramework.Design.dll
+H:\Escola\TCC\Forms\Forms\bin\Release\MetroFramework.dll
+H:\Escola\TCC\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.frmCliente.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.frmEventos.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.Login.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+H:\Escola\TCC\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\Forms\Forms\bin\Release\Forms.exe.config
+H:\Forms\Forms\obj\Release\Forms.exe
+H:\Forms\Forms\obj\Release\Forms.pdb
+H:\Forms\Forms\bin\Release\Forms.exe
+H:\Forms\Forms\bin\Release\Forms.pdb
+H:\Forms\Forms\bin\Release\MetroFramework.Design.dll
+H:\Forms\Forms\bin\Release\MetroFramework.dll
+H:\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\Forms\Forms\obj\Release\Forms.frmCliente.resources
+H:\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+H:\Forms\Forms\obj\Release\Forms.frmEventos.resources
+H:\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+H:\Forms\Forms\obj\Release\Forms.Login.resources
+H:\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+H:\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+H:\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+D:\Forms\Forms\bin\Release\Forms.exe.config
+D:\Forms\Forms\obj\Release\Forms.exe
+D:\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.exe
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\Forms.exe
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\imaya\Desktop\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.frmConvidados.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.frmLista.resources
+C:\Users\imaya\Desktop\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+G:\TCC\Forms\Forms\bin\Release\Forms.exe.config
+G:\TCC\Forms\Forms\obj\Release\Forms.exe
+G:\TCC\Forms\Forms\obj\Release\Forms.pdb
+G:\TCC\Forms\Forms\bin\Release\Forms.exe
+G:\TCC\Forms\Forms\bin\Release\Forms.pdb
+G:\TCC\Forms\Forms\bin\Release\MetroFramework.Design.dll
+G:\TCC\Forms\Forms\bin\Release\MetroFramework.dll
+G:\TCC\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+G:\TCC\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.frmCliente.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.frmEventos.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.Login.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+H:\TCC\Forms\Forms\bin\Release\Forms.exe.config
+H:\TCC\Forms\Forms\obj\Release\Forms.exe
+H:\TCC\Forms\Forms\obj\Release\Forms.pdb
+H:\TCC\Forms\Forms\bin\Release\Forms.exe
+H:\TCC\Forms\Forms\bin\Release\Forms.pdb
+H:\TCC\Forms\Forms\bin\Release\MetroFramework.Design.dll
+H:\TCC\Forms\Forms\bin\Release\MetroFramework.dll
+H:\TCC\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\TCC\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\TCC\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmCliente.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmEventos.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.Login.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+G:\TCC\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+G:\TCC\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+G:\TCC\Forms\Forms\obj\Release\Forms.SobreNos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.exe
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.SobreNos.resources
+C:\Users\manager\Desktop\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\Forms.exe
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\manager\Desktop\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+G:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.exe
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.pdb
+G:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe
+G:\TCC\Enzo\Forms\Forms\bin\Release\Forms.pdb
+G:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Design.dll
+G:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.dll
+G:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmCliente.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmEventos.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmTipos.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Login.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Mensagem.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+H:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.exe
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.pdb
+H:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe
+H:\TCC\Enzo\Forms\Forms\bin\Release\Forms.pdb
+H:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Design.dll
+H:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.dll
+H:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmCliente.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmEventos.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmTipos.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Login.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Mensagem.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+H:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+I:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.exe
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.pdb
+I:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe
+I:\TCC\Enzo\Forms\Forms\bin\Release\Forms.pdb
+I:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Design.dll
+I:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.dll
+I:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmCliente.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmEventos.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmTipos.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Login.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Mensagem.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+I:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\Computador 16\Desktop\Enzo\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+G:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Computador 16\Desktop\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\Computador 16\Desktop\TCC\Enzo\Forms\Forms\obj\Release\Forms.exe
+C:\Users\Computador 16\Desktop\TCC\Enzo\Forms\Forms\obj\Release\Forms.pdb
+H:\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+H:\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+H:\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+H:\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+H:\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+H:\Forms\Forms\obj\Release\Forms.frmTipos.resources
+H:\Forms\Forms\obj\Release\Forms.Mensagem.resources
+E:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe.config
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.exe
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.pdb
+E:\TCC\Enzo\Forms\Forms\bin\Release\Forms.exe
+E:\TCC\Enzo\Forms\Forms\bin\Release\Forms.pdb
+E:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Design.dll
+E:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.dll
+E:\TCC\Enzo\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmCliente.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmEventos.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.frmTipos.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Login.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Mensagem.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+E:\TCC\Enzo\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\Computador 16\Desktop\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+E:\TCC\TCC\Forms\Forms\bin\Release\Forms.exe.config
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.exe
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.pdb
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmCliente.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmEventos.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.frmTipos.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.Login.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.Mensagem.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+E:\TCC\TCC\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+E:\TCC\TCC\Forms\Forms\bin\Release\Forms.exe
+E:\TCC\TCC\Forms\Forms\bin\Release\Forms.pdb
+E:\TCC\TCC\Forms\Forms\bin\Release\MetroFramework.Design.dll
+E:\TCC\TCC\Forms\Forms\bin\Release\MetroFramework.dll
+E:\TCC\TCC\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+E:\TCC\Forms\Forms\bin\Release\Forms.exe.config
+E:\TCC\Forms\Forms\obj\Release\Forms.exe
+E:\TCC\Forms\Forms\obj\Release\Forms.pdb
+E:\TCC\Forms\Forms\bin\Release\Forms.exe
+E:\TCC\Forms\Forms\bin\Release\Forms.pdb
+E:\TCC\Forms\Forms\bin\Release\MetroFramework.Design.dll
+E:\TCC\Forms\Forms\bin\Release\MetroFramework.dll
+E:\TCC\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+E:\TCC\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+E:\TCC\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmCliente.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmEventos.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.frmTipos.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.Login.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.Mensagem.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+E:\TCC\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+H:\TCC\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.frmTipos.resources
+H:\TCC\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\Forms.exe
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+E:\TCC\Forms\Forms\Forms\bin\Release\Forms.exe.config
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.exe
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.pdb
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmCliente.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmEventos.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmTipos.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.Login.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.Mensagem.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.Sobre.resources
+E:\TCC\Forms\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+E:\TCC\Forms\Forms\Forms\bin\Release\Forms.exe
+E:\TCC\Forms\Forms\Forms\bin\Release\Forms.pdb
+E:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.Design.dll
+E:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.dll
+E:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\TCC\Forms\Forms\Forms\bin\Release\Forms.exe.config
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.exe
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.pdb
+H:\TCC\Forms\Forms\Forms\bin\Release\Forms.exe
+H:\TCC\Forms\Forms\Forms\bin\Release\Forms.pdb
+H:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.Design.dll
+H:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.dll
+H:\TCC\Forms\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmCliente.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmEventos.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.frmTipos.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.Login.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.Mensagem.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.Sobre.resources
+H:\TCC\Forms\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\Computador 16\Desktop\Forms\Forms\Forms\obj\Release\Forms.Sobre.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.exe
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.Sobre.resources
+C:\Users\ronal\Downloads\Forms\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\Forms.exe
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ronal\Downloads\Forms\Forms\Forms\bin\Release\MySql.Data.DLL
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\Forms.exe.config
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.exe
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.pdb
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\Forms.exe
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\Forms.pdb
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.Design.dll
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.dll
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmAdicionais.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmContabilidade.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmConvidado.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmCliente.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmEventos.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmFuncionario.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmGerenciarEventos.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmListaConvidados.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmProdutos.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.frmTipos.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.Login.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.Mensagem.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.MenuPrincipal.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.Properties.Resources.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.Sobre.resources
+C:\Users\ricardo\Downloads\Forms\Forms\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
